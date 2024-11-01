@@ -55,4 +55,8 @@ This project aims to create a solution for scraping apartment listings from Avit
         </ul>
     </li>
 </ol>
+<h2>📈 Conclusion</h2>
+<p>
+    This project emphasizes the importance of legal compliance and privacy protection in data scraping. By adhering to GDPR principles, the project ensures that data collection respects individuals' rights and the platform's policies. Implementing these steps not only minimizes legal risks but also promotes responsible data use. Through a clear privacy policy, data minimization, and secure storage, the project sets a standard for ethical data practices in web scraping.
+</p>
 
